@@ -1,0 +1,10 @@
+{
+  "name": "pokemon",
+  "version": "1.0.0",
+  "scripts": {
+    "sass": "sass --watch styles/styles.scss styles/styles.min.css"
+  },
+  "devDependencies": {
+    "sass": "^1.62.0"
+  }
+}
